@@ -10,7 +10,7 @@ Nearest Neighbour를 찾는 문제에 적용해보았다.
 grid_x = fmaxf(0, fminf(resolution - 1, resolution * x))</br>
 grid_y = fmaxf(0, fminf(resolution - 1. resolution * y))</br>
 
-검출된 grid 내와 그 주변 검색하여 최근접 이웃을 찾아낸다.
+검출된 grid 내와 그 주변을 검색하여 최근접 이웃을 찾아낸다.
 ![image](https://github.com/user-attachments/assets/b9e3b706-8408-4445-9e58-835926362ca3)
 
 ## 2. QuadTree
