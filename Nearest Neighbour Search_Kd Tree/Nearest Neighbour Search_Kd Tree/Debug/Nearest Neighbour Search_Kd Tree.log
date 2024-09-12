@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Desktop\nearest neighbour search\Nearest Neighbour Search_Kd Tree\Nearest Neighbour Search_Kd Tree\main.cpp(45,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Nearest Neighbour Search_Kd Tree\Nearest Neighbour Search_Kd Tree\main.cpp(62,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Nearest Neighbour Search_Kd Tree.vcxproj -> C:\Users\User\Desktop\nearest neighbour search\Nearest Neighbour Search_Kd Tree\Debug\Nearest Neighbour Search_Kd Tree.exe

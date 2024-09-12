@@ -1,0 +1,12 @@
+﻿  OcTree.cpp
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(18,63): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(36,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(101,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(115,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(129,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(143,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(157,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(171,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(185,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\User\Desktop\nearest neighbour search\Octree\Octree\OcTree.cpp(199,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Octree.vcxproj -> C:\Users\User\Desktop\nearest neighbour search\Octree\Debug\Octree.exe

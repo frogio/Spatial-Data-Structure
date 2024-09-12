@@ -1,0 +1,4 @@
+﻿  HashTable.cpp
+D:\@New Study\@OpenGL\@NearestNeighbor_HashTable\NearestNeighbor_HashTable\HashTable.cpp(14,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\@New Study\@OpenGL\@NearestNeighbor_HashTable\NearestNeighbor_HashTable\HashTable.cpp(47,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  NearestNeighbor_HashTable.vcxproj -> D:\@New Study\@OpenGL\@NearestNeighbor_HashTable\Debug\NearestNeighbor_HashTable.exe
